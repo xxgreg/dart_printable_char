@@ -1,0 +1,12 @@
+name: printable_char
+description: Test if a character code represents a printable character.
+version: 1.0.0
+homepage: https://www.example.com
+author: Greg Lowe <greg@v7.nz>
+
+environment:
+  sdk: '>=2.5.0 <3.0.0'
+
+dev_dependencies:
+  pedantic: ^1.8.0
+  test: ^1.6.0
